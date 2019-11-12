@@ -2,6 +2,14 @@ body {
 	overflow: auto !important;
 }
 
+body:after {
+	display: none !important;
+}
+
+#main > .inner {
+	opacity: 1.0 !important;
+}
+
 #main {
 	opacity: 1.0 !important;
 	-moz-transform: none !important;
@@ -34,7 +42,7 @@ body {
 	filter: none !important;
 }
 
-#main > .inner > section > * {
+#main > .inner > * {
 	opacity: 1.0 !important;
 	-moz-transform: none !important;
 	-webkit-transform: none !important;
