@@ -9,7 +9,7 @@
 * Version 1.4 // Commited on Thursday, November 14 2019 @ 18:06 // Added the New Website instance and moved the original to [/orginal](https://github.com/CarbonTTV/NorthCDN/tree/master/original)
 * Version 1.5 // Commited on Thursday, November 14 2019 @ 19:28 // Added cursor to main site -- Gradient Cursor
 * Version 1.6 // Commited on Thursday, November 14 2019 @ 20:50 // Added Privacy Policy / Cookie Policy
-* Version 1.7 // Commited on Friday, November 15 2019 @ 06:14 // No info for you. Removed a instance where going back would shrink a container.
+* Version 1.7 // Commited on Friday, November 15 2019 @ 06:15 // No info for you. Removed a instance where going back would shrink a container.
 
 ## Release History (Merges)
 * Version 1.0 // Merged on Monday, October 28th 2019 @ 22:49 // Added a cursor theme to [/dupre](https://github.com/CarbonTTV/NorthCDN/tree/master/dupre)
