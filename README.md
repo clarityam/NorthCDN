@@ -14,4 +14,5 @@
 * Version 1.7b // Commited on Monday, November 18 2019 @ 07:42 // Added a License
 
 ## Release History (Merges)
-* Version 1.0 // Merged on Monday, October 28th 2019 @ 22:49 // Added a cursor theme to [/dupre](https://github.com/CarbonTTV/NorthCDN/tree/master/dupre)
+* Version 1.0 // Merged on Monday, October 28 2019 @ 22:49 // Added a cursor theme to [/dupre](https://github.com/CarbonTTV/NorthCDN/tree/master/dupre)
+* Version 1.1 // Merged on Monday, November 18 2019 @ 08:12 // Added The Code of Conduct
