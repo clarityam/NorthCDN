@@ -12,6 +12,7 @@
 * Version 1.7 // Commited on Friday, November 15 2019 @ 06:14 // No info for you. Removed a instance where going back would shrink a container.
 * Version 1.7a // Commited on Friday, November 15 2019 @ 06:56 // Added Google Analytics information
 * Version 1.7b // Commited on Monday, November 18 2019 @ 07:42 // Added a License
+* Version 1.7c // Commited on Monday, November 18 2019 @ 08:17 // Added Contribution Guidelines
 
 ## Release History (Merges)
 * Version 1.0 // Merged on Monday, October 28 2019 @ 22:49 // Added a cursor theme to [/dupre](https://github.com/CarbonTTV/NorthCDN/tree/master/dupre)
