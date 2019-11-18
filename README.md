@@ -14,6 +14,7 @@
 * Version 1.7b // Commited on Monday, November 18 2019 @ 07:42 // Added a License
 * Version 1.7c // Commited on Monday, November 18 2019 @ 08:17 // Added Contribution Guidelines
 * Version 1.7d // Commited on Monday, November 18 2019 @ 08:24 // Added Issue Templetes
+* Version 1.8 // Commited on Monday, November 18 2019 @ 01:33 // Added modified website files for user scaling and backgrounds
 
 ## Release History (Merges)
 * Version 1.0 // Merged on Monday, October 28 2019 @ 22:49 // Added a cursor theme to [/dupre](https://github.com/CarbonTTV/NorthCDN/tree/master/dupre)
